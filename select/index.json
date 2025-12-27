@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "DIFFERENT",
+  "base_artist": "LE SSERAFIM",
+  "createdAt": "2025-12-27T12:55:18.130539Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Different World (feat. CORSAK)",
+      "artist": "Alan Walker feat. K-391, Sofia Carson & CORSAK",
+      "has_synced": true,
+      "path": "select/01_Different_World_(feat._CORSAK)_Alan_Walker_feat._K-391,_Sofia_Carson_&_CORSAK.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Different World",
+      "artist": "Alan Walker;K-391;Sofia Carson;CORSAK",
+      "has_synced": true,
+      "path": "select/02_Different_World_Alan_Walker;K-391;Sofia_Carson;CORSAK.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "A Lot of Things Different",
+      "artist": "Kenny Chesney",
+      "has_synced": true,
+      "path": "select/03_A_Lot_of_Things_Different_Kenny_Chesney.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Different For Girls",
+      "artist": "Dierks Bentley feat. Elle King",
+      "has_synced": true,
+      "path": "select/04_Different_For_Girls_Dierks_Bentley_feat._Elle_King.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Different For Girls",
+      "artist": "Dierks Bentley",
+      "has_synced": true,
+      "path": "select/05_Different_For_Girls_Dierks_Bentley.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "In a Different Light",
+      "artist": "Doug Stone",
+      "has_synced": true,
+      "path": "select/06_In_a_Different_Light_Doug_Stone.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "In A Different Light (Album Version)",
+      "artist": "Doug Stone",
+      "has_synced": true,
+      "path": "select/07_In_A_Different_Light_(Album_Version)_Doug_Stone.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "In A Different Light (Album Version)",
+      "artist": "Doug Stone",
+      "has_synced": false,
+      "path": "select/08_In_A_Different_Light_(Album_Version)_Doug_Stone.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "People Are Different",
+      "artist": "Florida Georgia Line",
+      "has_synced": true,
+      "path": "select/09_People_Are_Different_Florida_Georgia_Line.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Same Beer Different Problem",
+      "artist": "Darius Rucker",
+      "has_synced": true,
+      "path": "select/10_Same_Beer_Different_Problem_Darius_Rucker.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Different World",
+      "artist": "Alan Walker",
+      "has_synced": true,
+      "path": "select/11_Different_World_Alan_Walker.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "没有什么不同 (Not That Different)",
+      "artist": "Wanting",
+      "has_synced": false,
+      "path": "select/12_没有什么不同_(Not_That_Different)_Wanting.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "没有什麽不同-Not That Different",
+      "artist": "曲婉婷",
+      "has_synced": false,
+      "path": "select/13_没有什麽不同-Not_That_Different_曲婉婷.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "It Found A Different Path",
+      "artist": "Royal Coda",
+      "has_synced": true,
+      "path": "select/14_It_Found_A_Different_Path_Royal_Coda.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Different Colors",
+      "artist": "Yung Bans feat. Lil Yachty",
+      "has_synced": true,
+      "path": "select/15_Different_Colors_Yung_Bans_feat._Lil_Yachty.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Different Colors (feat. Lil Yachty)",
+      "artist": "Yung Bans",
+      "has_synced": true,
+      "path": "select/16_Different_Colors_(feat._Lil_Yachty)_Yung_Bans.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Different Drum",
+      "artist": "London Elektricity",
+      "has_synced": false,
+      "path": "select/17_Different_Drum_London_Elektricity.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "He Do the Police In Different Voices",
+      "artist": "The Loud Family",
+      "has_synced": false,
+      "path": "select/18_He_Do_the_Police_In_Different_Voices_The_Loud_Family.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "DIFFERENT",
+      "artist": "LE SSERAFIM",
+      "has_synced": false,
+      "path": "select/pl_01_DIFFERENT_LE_SSERAFIM.txt"
+    }
+  ]
+}
